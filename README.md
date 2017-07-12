@@ -5,5 +5,7 @@ Original Data are available on Ruppert's website: https://people.orie.cornell.ed
 
 On-going project.
 
+Update: Exerpcise on Chapter 9 has been updated. R lab part is completed. Added wrapper function of stepAIC (R,MASS) and vif (R. car) in Python.
+
 
 
